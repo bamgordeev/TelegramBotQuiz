@@ -12,7 +12,7 @@ import random
 
 
 # Telegram Access
-token = "6661386149:AAEQm0gZAf2qz9c1ncpHSm2Zqp9Ti7cT6wg"
+token = "_____"
 bot = telebot.TeleBot(token, threaded=False)
 
 conn = None
