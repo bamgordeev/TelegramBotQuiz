@@ -1,0 +1,2 @@
+telebot=4.14.0
+psycopg2=2.9.9
